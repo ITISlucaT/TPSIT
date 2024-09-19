@@ -1,3 +1,5 @@
+![Logo ITIS Mario Delpozzo](./logo-itis.jpg)
+
 # Compiti Python TPSIT
 
 Benvenuto nella repository dedicata ai compiti di Python per l'anno scolastico di **TPSIT** (Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazioni).

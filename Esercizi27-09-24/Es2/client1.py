@@ -19,6 +19,7 @@ threading.Thread(target=receive_messages, args=(udp_socket_client,), daemon=True
 try:
     while True:
         message = input("Tu: ")
+        if message =="exit" : break
         udp_socket_client.sendto(message.encode("utf-8"), server_address)
 
 except KeyboardInterrupt:
